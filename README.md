@@ -1,3 +1,4 @@
+🔍 LinkedIn Profile Scraper using Selenium
 Project Summary
 
 This mini project is a **Java-based web scraper** that automates the process of extracting names from LinkedIn search results using **Selenium WebDriver**. It simulates browser actions to log in,navigate through paginated search results, and extract profile names.
